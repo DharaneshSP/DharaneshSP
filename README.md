@@ -1,4 +1,4 @@
-<h1 align="center">Hey , I'm Dharanesh S P</h1>
+<h1 align="center">Hey, I'm Dharanesh S P</h1>
 <h3 align="center">Emerging Full Stack developer with ML Interest</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharaneshsp&label=Profile%20views&color=0e75b6&style=flat" alt="dharaneshsp" /> </p>
