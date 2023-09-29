@@ -2,6 +2,7 @@
 
 - I'm Dharanesh S P
 - Currently Pursuing My Bachelor's Degree at Chennai Institute of Technology 
+- Currently Learning MERN Stack and Data Structures and Algorithms 
 -  📫 Reach me on **spdharanesh28@gmail.com**
 
 <!--
