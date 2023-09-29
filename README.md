@@ -1,4 +1,6 @@
-  ![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif)
+  ![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif
+
+- I'm Dharanesh S P
 
 <!--
 <h1 align="center">Hi, I'm Dharanesh S P</h1>
