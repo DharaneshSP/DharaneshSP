@@ -1,7 +1,7 @@
   ![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif)
 
 - I'm Dharanesh S P
-- Currently Pursuing My Bachelor's Degree at Chennai Institute of Technology 
+- Pursuing My Bachelor's Degree at Chennai Institute of Technology 
 - Currently Learning MERN Stack and Data Structures and Algorithms 
 -  📫 Reach me on **spdharanesh28@gmail.com**
 
