@@ -3,7 +3,7 @@
 - I'm Dharanesh S P
 - Currently Pursuing My Bachelor's Degree at Chennai Institute of Technology 
 -  📫 Reach me on **spdharanesh28@gmail.com**
-- 
+
 <!--
 <h1 align="center">Hi, I'm Dharanesh S P</h1>
 <h3 align="center">Emerging Full Stack developer with ML Interest</h3>
