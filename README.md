@@ -2,8 +2,8 @@
 
 - I'm Dharanesh S P
 - Pursuing My Bachelor's Degree at Chennai Institute of Technology
-- Currently Learning MERN Stack
--  📫 Reach me on **spdharanesh28@gmail.com**
+- Currently Learning Full Stack Development
+- Reach me on - **spdharanesh28@gmail.com**
 
 <!--
 <h1 align="center">Hi, I'm Dharanesh S P</h1>
