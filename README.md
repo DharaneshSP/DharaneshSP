@@ -1,10 +1,10 @@
-  ![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif)
+<!--  ![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif)
 
 - I'm Dharanesh S P
 - Pursuing My Bachelor's Degree at Chennai Institute of Technology
 - Currently Learning Full Stack Development
 - Reach me on - **spdharanesh28@gmail.com**
-
+--
 <!--
 <h1 align="center">Hi, I'm Dharanesh S P</h1>
 <h3 align="center">Emerging Full Stack developer with ML Interest</h3>
